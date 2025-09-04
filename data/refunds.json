@@ -1,1 +1,15 @@
+[
+  {
+    "orderId": "O123",
+    "amount": 12350,
+    "currency": "INR",
+    "stage": "Bank Pending",
+    "history": [
+      {"stage":"Approved","ts":"2025-09-03"},
+      {"stage":"Sent to Bank","ts":"2025-09-04"},
+      {"stage":"Bank Pending","ts":"2025-09-05"}
+    ],
+    "expectedCredit": "2025-09-06"
+  }
+]
 
