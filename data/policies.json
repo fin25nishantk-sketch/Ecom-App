@@ -1,0 +1,20 @@
+[
+  {
+    "id":"POL-SBI-10",
+    "title":"SBI 10% Cashback",
+    "rules":[
+      "Valid on prepaid orders only",
+      "Minimum cart value ₹5,000",
+      "Not applicable on COD"
+    ],
+    "lastUpdated":"2025-08-30",
+    "keywords":["sbi","cashback","10","prepaid","cod","offer","emi"]
+  },
+  {
+    "id":"POL-AXIS-EMI",
+    "title":"No-cost EMI (Flipkart Axis)",
+    "rules":["Eligible SKUs only","Tenure 3–6 months","Processing fee may apply"],
+    "lastUpdated":"2025-08-25",
+    "keywords":["emi","axis","no cost","card"]
+  }
+]
