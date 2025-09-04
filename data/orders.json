@@ -1,0 +1,10 @@
+[
+  {
+    "orderId": "O123",
+    "userId": "U1",
+    "item": "Puma Sneakers",
+    "status": "At Hub",
+    "eta": "2025-09-07T20:00:00Z",
+    "checkpoints": ["Ordered","Shipped","At Hub","Out for Delivery","Delivered"]
+  }
+]
