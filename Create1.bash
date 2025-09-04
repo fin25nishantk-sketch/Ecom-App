@@ -1,6 +1,18 @@
-# 1) make a new Next.js app (App Router)
-npx create-next-app@latest flipkart-gpt-mvp --ts --app --eslint
-cd flipkart-gpt-mvp
-
-# 2) add deps
-npm i openai
+app/
+  page.tsx
+  api/
+    chat/route.ts
+    orders/route.ts
+    refunds/route.ts
+    policies/route.ts
+    disputes/route.ts
+    escalate/route.ts
+lib/
+  masking.ts
+  rag.ts
+  prompts.ts
+data/
+  orders.json
+  refunds.json
+  policies.json
+  listings.json
